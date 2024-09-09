@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Topological Deep Learning
-description: A new way to work with higher-order, complex data in the context of deep learning. 
+description: A new way to work with higher-order, complex data in the context of deep learning.
 img: assets/img/TDL.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Topological deep learning is a rapidly growing field that pertains to the development of deep learning models for data supported on topological domains such as simplicial complexes, cell complexes, and hypergraphs, which generalize many domains encountered in scientific computations. 
+Topological deep learning is a rapidly growing field that pertains to the development of deep learning models for data supported on topological domains such as simplicial complexes, cell complexes, and hypergraphs, which generalize many domains encountered in scientific computations.
 
 Traditional machine learning often assumes that the observed data of interest are supported on a linear vector space and can be described by a set of feature vectors. However, there is growing awareness that, in many cases, this view- point is insufficient to describe several data within the real world. For example, molecules may be described more appropriately by graphs than feature vectors. Other examples include three-dimensional objects represented by meshes, as encountered in computer graphics and geometry processing, or data supported on top of a complex social network of interrelated actors. Hence, there has been an increased interest in importing concepts from geometry and topology into the usual machine learning pipelines to gain further insights into such types of data in a systematic way.
 

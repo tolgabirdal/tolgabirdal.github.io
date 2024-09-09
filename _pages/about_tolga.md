@@ -13,4 +13,3 @@ As a <strong>science advocate</strong>, I am committed to breaking down barriers
 As an <strong>entrepreneur</strong>, I have co-founded multiple startups, including <a href='https://www.befunky.com'>BeFunky</a>, an online photo editing platform that empowers creativity worldwide.
 
 As a <strong>music aficionado</strong>, I am immersed into drums & percussion. I particularly appreciate blues, jazz, funk as well as folk, ethnic and experimental forms of rhythm and music holistically.
-
