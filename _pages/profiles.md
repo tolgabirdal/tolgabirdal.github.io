@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People in the CIRCLE Group
+title: CIRCLE Group
 description: Members of the CIRCLE group
 nav: true
 nav_order: 7
