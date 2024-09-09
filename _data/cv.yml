@@ -26,6 +26,9 @@
       year: 2008
       description:
         - title: Electronics Engineering
+    - title: High School (K12)
+      institution: Robert College, Istanbul, Turkey
+      year: 2004
 
 - title: Experience
   type: time_table
@@ -50,9 +53,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://pyt-team.github.io/">Topo-X</a>
+      year: 2023-now
+      description: A set of Python packages for meeting diverse computational needs on topological domains. Topological domains are the natural mathematical structures representing relations between the components of a dataset.
 
 - title: Honors and Awards
   type: time_table
