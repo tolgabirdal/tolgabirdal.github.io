@@ -693,7 +693,7 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 150px;
+        min-width: 200px;
         max-width: 500px;
       }
 
@@ -758,6 +758,7 @@ footer.sticky-bottom {
       }
 
       .links {
+        margin-left: 5rem;
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
