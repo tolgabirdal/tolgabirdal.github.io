@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I teach Non-Euclidean Machine Learning and 3D Vision.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+For further information:
+<a href="https://www.imperial.ac.uk/computing/current-students/courses/70112/">Imperial Course 70112</a>
 
-Organize your courses by years, topics, or universities, however you like!
+<a href="https://graphics.stanford.edu/courses/cs468-20-fall/">Stanford Course CS468</a>

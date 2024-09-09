@@ -1,81 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Multi-modal 3D Vision
+description: Investigates the uncertainties and ambiguities in 3D vision problems such as pose estimation, reconstruction and etc.
+img: assets/img/DBN.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+A majority of tasks in computer vision can be interpreted as scene understanding problems conditioned on either 2D image or 3D scan modalities. Usually, these scenes are digitizations of our man made environments composed of objects. Hence, a fundamental piece of this perception problem is pose estimation, i.e. figuring out how these objects are positioned and oriented in 3D space. A rigid transformation is a six degrees of freedom (6-DoF) entity explaining the pose either of an acquisition device (e.g. Lidar or cam- era) or an object enclosed within the captured data. Solving for the former is known as camera relocalization, while the latter is related to 3D object pose estimation. Both of these are now key technologies in enabling a multitude of applications such as augmented reality, autonomous driving, human computer interaction and robot guidance, thanks to their extensive integration in simultaneous localization and mapping (SLAM) [24, 32, 83], structure from motion (SfM), metrology, visual localization and 3D object detection.
+A myriad of papers have worked on finding the unique solution to the pose estimation problem: a pose per view/scan. However, this trend is now witnessing a fundamental challenge. A recent school of thought has begun to point out that for our highly complex and ambiguous real environments, obtaining a single solution i.e. the correct pose, is simply not sufficient. For example, an image of a scene with repeating structures can look similar even though the location and orientation of the capture de- vice is drastically different. Likewise, objects with rotational symmetries lead to very similar point clouds when scanned from different viewpoints, say with a laser scanner. These observations have led to a paradigm shift that has opened a multitude of research directions focusing on these issues. In- stead of estimating a single solution, methods now propose to predict a range of solutions providing multiple pose hypotheses, solutions that can associate uncertainties to their predictions or even solutions in the form of full probability distributions.

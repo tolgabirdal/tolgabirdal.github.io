@@ -1,80 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Synchronization in Computer Vision
+description: Investigates the uncertainties and ambiguities in 3D vision problems such as pose estimation, reconstruction and etc.
+img: assets/img/sync.jpg
+importance: 4
+category: work
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Many of the computer vision problems involve processing multiple entities be it objects, shapes, views or scenes. In such cases, graphs a.k.a. networks, are the key data structures for storing and organizing information. Yet, relationships between individual entities that had to be encoded in the edges often remain pairwise, or rather local. One of the most well accepted methods of seeking a global agreement is enforcing cycle-consistency, where the local errors are distributed over the entire graph such that the composition of maps/transforms along the cycles is close to the identity map. This art of consistently recovering absolute quantities from a collection of ratios is known as synchronization. From training generative adverserial networks to geometric structure from motion algorithms, from temporal video understanding to image-to-image translation, this capability of imposing consistency benefits a wide variety of vision tasks. In this tutorial, we first introduce the fundamentals of cycle-consistency and review the broad range of studies that make use of it. Next, we cover different techniques for solving multiview synchronization problems in computer vision, or in other words for achieving cycle consistency. Several techniques including graph theory, combinatorial optimization, Riemannian geometry, spectral decomposition, (non-)convex optimization, and MAP inference will be addressed. We also touch upon recent techniques that jointly optimize neural networks across multiple domains. Besides optimization techniques, we will also discuss the uncertainty and ambiguities inherent either in the data or in the model and show how the existing tools can be augmented to yield this valuable piece of information. We will finally showcase the applications of synchronizing linear/non-linear maps (e.g. functional maps) in multi-view based geometry reconstruction (RGB images or RGBD images), joint analysis of image collections, 3D reconstruction and understanding across multiple domains. This projects targets developing tools and methods acting as common techniques across several sub-fields of computer vision such as multi-view structure-from-motion, 3D geometry reconstruction, unsupervised map/object discovery, joint learning of neural networks and end-to-end multiview processing.
