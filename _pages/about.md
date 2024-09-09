@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As a <strong>computer scientist</strong>, I strive to understand visual perception and build machines that can see. To do so, I leverage tools from differential geometry and algebraic topology, in conjunction with deep neural networks. My research focuses on:
+As a <strong>computer scientist</strong> and PI of the CIRCLE group, I strive to understand visual perception and build machines that can see. To do so, I leverage tools from differential geometry and algebraic topology, in conjunction with deep neural networks. My research focuses on:
 
 <ul>
   <li>3D Computer Vision</li>
