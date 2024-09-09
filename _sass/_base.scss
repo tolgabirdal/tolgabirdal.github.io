@@ -749,6 +749,7 @@ footer.sticky-bottom {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
+          margin-left: 5rem;
 
           &:hover {
             color: var(--global-text-color);
@@ -779,6 +780,7 @@ footer.sticky-bottom {
       }
 
       .badges {
+      margin-left: 5rem;
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
