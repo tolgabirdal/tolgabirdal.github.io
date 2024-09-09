@@ -134,12 +134,13 @@ background-color: var(--global-danger-block-bg);
     }
 
 }
-}
+
 
 // Checklist
 
 ul.task-list {
-list-style-type: none; /_ Remove bullets from all levels _/
+/_ Remove bullets from all levels _/
+list-style-type: none;
 }
 
 ul.task-list > li ul {
