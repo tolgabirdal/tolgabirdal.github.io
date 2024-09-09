@@ -693,7 +693,7 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 200px;
+        min-width: 150px;
         max-width: 500px;
       }
 
@@ -722,13 +722,11 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
-        margin-left: 5rem;
       }
 
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
-          margin-left: 5rem;
 
           &:hover {
             border-bottom-style: solid;
@@ -739,7 +737,6 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
-          margin-left: 5rem;
         }
 
         > span.more-authors {
