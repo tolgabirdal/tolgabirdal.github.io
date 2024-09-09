@@ -705,7 +705,6 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-          margin-left: 5rem;
 
           a {
             color: white;
@@ -731,7 +730,6 @@ footer.sticky-bottom {
         margin-left: 5rem;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
-          margin-left: 5rem;
 
           &:hover {
             border-bottom-style: solid;
@@ -742,14 +740,12 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
-          margin-left: 5rem;
         }
 
         > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
-          margin-left: 5rem;
 
           &:hover {
             color: var(--global-text-color);
@@ -780,7 +776,6 @@ footer.sticky-bottom {
       }
 
       .badges {
-      margin-left: 5rem;
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
