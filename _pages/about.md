@@ -6,7 +6,7 @@ subtitle: Assistant Professor at <a href='https://profiles.imperial.ac.uk/t.bird
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>569 Huxley Building</p>
     <p>180 Queen's Gate, South Kensington</p>
