@@ -699,11 +699,13 @@ footer.sticky-bottom {
 
       .abbr {
         margin-bottom: 0.5rem;
+        margin-left: 5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
+          margin-left: 5rem;
 
           a {
             color: white;
@@ -722,11 +724,14 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        margin-left: 5rem;
       }
 
       .author {
+        margin-left: 5rem;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
+          margin-left: 5rem;
 
           &:hover {
             border-bottom-style: solid;
@@ -737,6 +742,7 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          margin-left: 5rem;
         }
 
         > span.more-authors {
