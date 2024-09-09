@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: I teach Non-Euclidean Machine Learning and 3D Vision.
 nav: true
 nav_order: 6

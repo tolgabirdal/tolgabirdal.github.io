@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor at <a href='https://profiles.imperial.ac.uk/t.birdal'>Imperial College London</a>. <a href='https://www.imperial.ac.uk/news/254977/four-imperial-academics-awarded-future-leaders/#:~:text=With%20a%20%C2%A31.55%20million,CAD%20modelling%2C%20and%20medical%20imaging'>UKRI Future Leaders Fellow</a>. Previously <a href='https://ai.stanford.edu/'>@StanfordAILab</a>. Building an artificial visual cortex for spatial intelligence through geometry and topology by day. Indulging in music and philosophy by night.
 profile:
