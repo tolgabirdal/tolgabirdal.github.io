@@ -1,0 +1,1 @@
+<strong>Zhengdi Yu</strong> is currently a PhD student at the CIRCLE group, studying 4D motion representations of articulated bodies such as hands and human bodies. 

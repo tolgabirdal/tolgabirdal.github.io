@@ -17,4 +17,20 @@ profiles:
     image: prof_pic_melih.jpeg
     content: about_melih.md
     image_circular: true # crops the image to make it circular
+  - align: right
+    image: prof_pic_caner.jpeg
+    content: about_caner.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: prof_pic_zhengdi.jpeg
+    content: about_zhengdi.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: prof_pic_lucas.jpeg
+    content: about_lucas.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: prof_pic_yiming.jpg
+    content: about_yiming.md
+    image_circular: true # crops the image to make it circular
 ---

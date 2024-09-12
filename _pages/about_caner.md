@@ -1,0 +1,1 @@
+<strong>Caner Korkmaz</strong> is currently a PhD student working on topological approaches to understand deep neural networks.

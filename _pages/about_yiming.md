@@ -1,0 +1,1 @@
+<strong>Yiming Huang</strong> is a PhD student and a Lee Family scholar, developing novel higher order networks for understanding complex structures and datasets. More information <a href="https://yimingh.top/">here</a>.
