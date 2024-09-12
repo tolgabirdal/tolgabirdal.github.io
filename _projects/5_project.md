@@ -5,7 +5,7 @@ description: BeFunky Photo Editor lets you apply photo effects, edit photos and 
 img: assets/img/befunky.jpg
 importance: 5
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 <a href="https://www.befunky.com/">befunky.com</a> was a previous project of mine. Acquired by Tiny Capital.
