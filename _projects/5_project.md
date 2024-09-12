@@ -2,7 +2,7 @@
 layout: page
 title: Data-driven 3D Local Features for Point Cloud Registration
 description: 
-img: assets/img/3dPPF.jpg
+img: assets/img/3DPPF.jpg
 importance: 5
 category: work
 giscus_comments: false
