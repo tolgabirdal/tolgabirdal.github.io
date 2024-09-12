@@ -26,7 +26,7 @@ profiles:
     content: about_zhengdi.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: prof_pic_lucas.jpeg
+    image: prof_pic_lucas.jpg
     content: about_lucas.md
     image_circular: true # crops the image to make it circular
   - align: left
