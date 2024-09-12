@@ -13,9 +13,10 @@ Many of the computer vision problems involve processing multiple entities be it 
 
 ## Related Publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=huang2022multiway]* %}
+  {% bibliography -f papers -q @*[key=huang2022multiway]* %}gojcic2020learning
   {% bibliography -f papers -q @*[key=huang2021multibodysync]* %}
   {% bibliography -f papers -q @*[key=birdal2021quantum]* %}
+  {% bibliography -f papers -q @*[key=gojcic2020learning]* %}
   {% bibliography -f papers -q @*[key=birdal2020synchronizing]* %}
   {% bibliography -f papers -q @*[key=birdal2019probabilistic]* %}
   {% bibliography -f papers -q @*[key=birdal2018bayesian]* %}
