@@ -32,3 +32,5 @@ As a <strong>science advocate</strong>, I am committed to breaking down barriers
 As an <strong>entrepreneur</strong>, I have co-founded multiple startups, including <a href='https://www.befunky.com'>BeFunky</a>, an online photo editing platform that empowers creativity worldwide.
 
 As a <strong>music aficionado</strong>, I am immersed into drums & percussion. I particularly appreciate blues, jazz, funk as well as folk, ethnic and experimental forms of rhythm and music holistically. I occasionally take stage with <a href='https://www.instagram.com/zeynelgunbek/'>Zeyn'el Günbek</a>, a Turkish indie folk musician.
+
+<strong>Fun facts</strong>: Felix Klein is my <a href="assets/pdf/birdal_mathgen.pdf">great^6 grandfather</a>. I have an Erdős number of 3 <a href="https://www.csauthors.net/distance/tolga-birdal/paul-erdos">(Guibas -> Pach -> Erdős)</a>. 
