@@ -2,9 +2,12 @@
 layout: profiles
 permalink: /people/
 title: CIRCLE Group
-description: I am always looking for outstanding PhD candidates and PostDocs to work on exciting projects in 3D vision and machine learning. We have <a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">multliple PhD and PostDoc positions available</a>. Feel free to e-mail me your CV and ideas. Below are the current members of the CIRCLE group.
+description: 
 nav: true
 nav_order: 7
+
+I am always looking for outstanding PhD candidates and PostDocs to work on exciting projects in 3D vision and machine learning. We have multliple <a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a> and <a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a> positions available. Feel free to e-mail me your CV and ideas. Below are the current members of the CIRCLE group.
+---
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
