@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: CIRCLE Group
-description: We have multliple <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a></u> and <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a></u> positions available. Feel free to e-mail me your CV and ideas. Here are the members of the CIRCLE group.
+description: We have multliple <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a></u> and <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a></u> positions available. Feel free to e-mail me your CV and ideas. Below are the members of the CIRCLE group.
 nav: true
 nav_order: 7
 
@@ -34,7 +34,3 @@ profiles:
     content: about_yiming.md
     image_circular: true # crops the image to make it circular
 ---
-<!--
-<div>
-<strong>Prospective applicants</strong>: I am always looking for outstanding PhD candidates and PostDocs to work on exciting projects in 3D vision and machine learning. We have multliple <a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a> and <a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a> positions available. Feel free to e-mail me your CV and ideas. Below are the current members of the CIRCLE group.
-</div>-->
