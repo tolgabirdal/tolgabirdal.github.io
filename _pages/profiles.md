@@ -2,8 +2,7 @@
 layout: profiles
 permalink: /people/
 title: CIRCLE Group
-description: Members of the CIRCLE group (see below for applications).
-subtitle: We have multliple <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a></u> and <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a></u> positions available. Feel free to e-mail me your CV and ideas. Below are the current members of the CIRCLE group.
+description: We have multliple <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a></u> and <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a></u> positions available. Feel free to e-mail me your CV and ideas. Below are the current members of the CIRCLE group.
 nav: true
 nav_order: 7
 
