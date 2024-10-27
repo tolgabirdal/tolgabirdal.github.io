@@ -6,6 +6,8 @@ description: Members of the CIRCLE group
 nav: true
 nav_order: 7
 
+I am always looking for outstanding PhD candidates and PostDocs to work on exciting projects in 3D vision and machine learning. We have <a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">multliple PhD and PostDoc positions available</a>. Feel free to e-mail me your CV and ideas.
+
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
