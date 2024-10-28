@@ -34,3 +34,5 @@ profiles:
     content: about_yiming.md
     image_circular: true # crops the image to make it circular
 ---
+
+{% if author.googlescholar %} We have multliple <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs_phd.pdf">PhD</a></u> and <u><a href="https://tolgabirdal.github.io/assets/pdf/circlejobs.pdf">PostDoc</a></u> positions available. Feel free to e-mail me your CV and ideas. Below are the members of the CIRCLE group. {% endif %}
