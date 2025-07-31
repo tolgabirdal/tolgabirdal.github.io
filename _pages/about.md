@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor at <a href='https://profiles.imperial.ac.uk/t.birdal'>Imperial College London</a>. <a href='https://www.imperial.ac.uk/news/254977/four-imperial-academics-awarded-future-leaders/#:~:text=With%20a%20%C2%A31.55%20million,CAD%20modelling%2C%20and%20medical%20imaging'>UKRI Future Leaders Fellow</a> and elected AI speaker. Leading the great <a href='https://circle-group.github.io>CIRCLE groupw</a>. Previously <a href='https://ai.stanford.edu/'>@StanfordAILab</a> and <a href='https://www.cs.cit.tum.de/camp/start/'>@TUMunich</a>. Building an artificial visual cortex for spatial intelligence through geometry and topology by day. Indulging in music and philosophy by night.
+subtitle: Assistant Professor at <a href='https://profiles.imperial.ac.uk/t.birdal'>Imperial College London</a>. <a href='https://www.imperial.ac.uk/news/254977/four-imperial-academics-awarded-future-leaders/#:~:text=With%20a%20%C2%A31.55%20million,CAD%20modelling%2C%20and%20medical%20imaging'>UKRI Future Leaders Fellow</a> and elected AI speaker. Leading the great <a href='https://circle-group.github.io>CIRCLE group</a>. Previously <a href='https://ai.stanford.edu/'>@StanfordAILab</a> and <a href='https://www.cs.cit.tum.de/camp/start/'>@TUMunich</a>. Building an artificial visual cortex for spatial intelligence through geometry and topology by day. Indulging in music and philosophy by night.
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As a <strong>computer scientist</strong> and PI of the CIRCLE group, I strive to understand visual perception and build machines that can see. To do so, I leverage tools from differential geometry and algebraic topology, in conjunction with deep neural networks. My research focuses on:
+As a <strong>computer scientist</strong> and PI of the <a href='https://circle-group.github.io>CIRCLE group</a>, I strive to understand visual perception and build machines that can see. To do so, I leverage tools from differential geometry and algebraic topology, in conjunction with deep neural networks. My research focuses on:
 
 <ul>
   <li>3D Computer Vision</li>
