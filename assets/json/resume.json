@@ -92,13 +92,7 @@
     {
       "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "3D Vision",
-        "Topological Deep Learning",
-        "Geometric Computing",
-        "Deep Learning Theory",
-        "Quantum Computer Vision"
-      ]
+      "keywords": ["3D Vision", "Topological Deep Learning", "Geometric Computing", "Deep Learning Theory", "Quantum Computer Vision"]
     }
   ]
 }

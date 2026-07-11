@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data-driven 3D Local Features for Point Cloud Registration
-description: 
+description:
 img: assets/img/3DPPF.jpg
 importance: 5
 category: work
@@ -14,6 +14,7 @@ Developing robust and accurate methods for aligning 3D point clouds by learning 
 Through a series of publications, we have explored the development of 3D local features suitable for use in autonomous driving as well as robotics applications like bin picking and navigation. Our methods can also be used for reconstructing scenes by aligning information from different views or scans.
 
 ## Related Publications
+
 <div class="publications">
   {% bibliography -f papers -q @*[key=zhao20223dpointcaps]* %}
   {% bibliography -f papers -q @*[key=huang2022multiway]* %}

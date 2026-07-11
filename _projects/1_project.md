@@ -17,6 +17,7 @@ TDL is concerned with algebraic-topology integrated into deep learning framework
 Going beyond the existing paradigm of persistent-homology, four practical advantages of TDL are as follows. First, the topology of the underlying data space determines the choice of possible neural network architectures. Second, topological domains enable the modeling of data containing multi-way interactions (also known as higher-order relations). Third, TDL captures regularities inherent to manifolds, such as ‘remeshing symmetry’. Fourth, TDL captures topological equivariances in the data. In summary, TDL takes into ac- count topological characteristics that appear in relational data, and therefore is a natural choice for various machine learning problems.
 
 ## Related Publications
+
 <div class="publications">
   {% bibliography -f papers -q @*[key=hajij2023topological]* %}
   {% bibliography -f papers -q @*[key=hajij2023combinatorial]* %}
