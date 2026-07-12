@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://logml.ai">London Geometry and Machine Learning (LOGML)</a> takes place at Imperial. LOGML brings together mathematicians and computer scientists to collaborate on various subjects at the intersection of geometry and machine learning. Kudos to Simone Foti for being a lead organizer.
+My CIRCLE group is awarded 300,000 GPUh of compute on the UKRI Isambard-AI AIRR service for AI4Science.
